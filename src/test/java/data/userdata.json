@@ -1,0 +1,33 @@
+[
+
+{
+
+
+   "fName"    : "mohamed" ,
+   
+   "lName"    : "Ahmed"   ,
+   
+   "phone"    : "01150439940"   ,
+   
+   "Email"     : "mohamedahmed.2@gmail.com" ,
+   
+   "password" : "12345678" ,
+   
+   "Account_Type"    : "Supplier"   ,
+ 
+   
+   "Flying_From" : "cai" ,
+   
+   "Destination" : "par" ,
+   
+   "Departure_Date" :  "13-10-2022" ,
+   
+   
+   "City_Name" :"pari"
+   
+   
+}
+
+
+
+]
